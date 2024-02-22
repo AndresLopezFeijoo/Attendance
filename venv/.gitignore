@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+*.log
+.DS_Store
+TelegramTok.json
+Spreadsheetid.json
+token.json
+
+
