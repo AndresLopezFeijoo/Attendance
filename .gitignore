@@ -2,3 +2,5 @@ Spreadsheetid.json
 token.json
 credentials.json
 TelegramTok.json
+.DS_Store
+.idea/
